@@ -1,8 +1,16 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: OpenNEC
+description: A free and open-source Train Simulator Classic mod for Northeast Corridor locomotives.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://opennec.trinancrat.me
+
+nav_external_links:
+  - title: Issues
+    url: https://github.com/YoRyan/open-nec/issues
+  - title: Roadmap
+    url: https://github.com/users/YoRyan/projects/6
+  - title: Source
+    url: https://github.com/YoRyan/open-nec
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Edit on GitHub: https://github.com/YoRyan/open-nec-website
