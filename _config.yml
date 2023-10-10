@@ -5,6 +5,8 @@ theme: just-the-docs
 url: https://opennec.trinancrat.me
 
 nav_external_links:
+  - title: Download
+    url: https://github.com/YoRyan/open-nec/releases
   - title: Issues
     url: https://github.com/YoRyan/open-nec/issues
   - title: Roadmap
