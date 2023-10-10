@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://opennec.trinancrat.me
 
+favicon_ico: /assets/favicon.png
+
 nav_external_links:
   - title: Download
     url: https://github.com/YoRyan/open-nec/releases
