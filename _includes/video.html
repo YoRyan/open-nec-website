@@ -2,7 +2,11 @@
   <video autoplay loop muted playsinline
     width="{{ include.width }}" height="{{ include.height }}"
     style="max-width: 100%; height: auto;">
-    <source src="{{ include.src }}" type="{{ include.type }}">
+    {% assign src = include.src | split: "," %}
+    {% assign type = include.type | split: "," %}
+    {% for src in src %}
+      <source src="{{ src }}" type="{{ type[forloop.index0] }}">
+    {% endfor %}
     {{ include.alt }}
   </video>
 </p>

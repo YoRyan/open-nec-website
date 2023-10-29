@@ -12,19 +12,19 @@ Open NEC is a free and open-source Train Simulator Classic mod that greatly enha
 
 A scrolling menu for changing destination signs. A progress bar for switching dual-power locomotive modes. Automatic bell when blowing the horn. And, oh, did we mention fading ditch lights?
 
-{% include video.html src="/assets/demo/destination-signs.webm" width="1480" height="1110" type="video/webm" alt="Switching destination signs on the Acela" %}
+{% include video.html src="/assets/demo/destination-signs.webm,/assets/demo/destination-signs.mp4" width="1480" height="1110" type="video/webm,video/mp4" alt="Switching destination signs on the Acela" %}
 
-{% include video.html src="/assets/demo/power-switch.webm" width="1480" height="1110" type="video/webm" alt="Switching power modes on the M8" %}
+{% include video.html src="/assets/demo/power-switch.webm,/assets/demo/power-switch.mp4" width="1480" height="1110" type="video/webm,video/mp4" alt="Switching power modes on the M8" %}
 
-{% include video.html src="/assets/demo/horn-bell.webm" width="1480" height="1110" type="video/webm" alt="Using the horn on the ACS-64" %}
+{% include video.html src="/assets/demo/horn-bell.webm,/assets/demo/horn-bell.mp4" width="1480" height="1110" type="video/webm,video/mp4" alt="Using the horn on the ACS-64" %}
 
-{% include video.html src="/assets/demo/ditch-lights.webm" width="1480" height="1110" type="video/webm" alt="Using the ditch lights on the HHP-8" %}
+{% include video.html src="/assets/demo/ditch-lights.webm,/assets/demo/ditch-lights.mp4" width="1480" height="1110" type="video/webm,video/mp4" alt="Using the ditch lights on the HHP-8" %}
 
 ## Safety systems? We have safety systems.
 
 The mod includes complete implementations of the two safety systems in use on the corridor. Amtrak's Advanced Civil Speed Enforcement System (ACSES) finally gets a proper rendition, with a braking curve that provides advance warning of any reduction in the track speed limit.
 
-{% include video.html src="/assets/demo/safety-systems.webm" width="1480" height="1110" type="video/webm" alt="ACSES enforcement action on the ACS-64" %}
+{% include video.html src="/assets/demo/safety-systems.webm,/assets/demo/safety-systems.mp4" width="1480" height="1110" type="video/webm,video/mp4" alt="ACSES enforcement action on the ACS-64" %}
 
 Automatic Train Control (ATC), which enforces the cab signal speed, is delightfully bug-free and is universally compatible--no longer do you need to switch it off just because your consist didn't ship with the route DLC you're driving. A must-have if you play scenarios from the scenario packs or the Steam Workshop.
 
@@ -36,7 +36,7 @@ Automatic Train Control (ATC), which enforces the cab signal speed, is delightfu
 
 The mod is fully compatible with Fan Railer's popular [physics and sound enhancement packs](https://www.nyctarailfan.com/frtscmodifications). Plus, it sends the consist messages needed to power the next generation of community content, like the [Amfleet I Enhancement Pack](https://www.trainsimcommunity.com/mods/c1-train-sim-classic/c77-enhancement-packs/i3499-amfleet-i-enhancement-pack) and [Ragno's Viewliners](https://www.trainsimcommunity.com/mods/c1-train-sim-classic/c87-models/i1529-amtrak-viewliner-ii-baggages).
 
-{% include video.html src="/assets/demo/low-floor.webm" width="1480" height="1110" type="video/webm" alt="Switching between high and low platforms with the Amfleet I" %}
+{% include video.html src="/assets/demo/low-floor.webm,/assets/demo/low-floor.mp4" width="1480" height="1110" type="video/webm,video/mp4" alt="Switching between high and low platforms with the Amfleet I" %}
 
 ## Enhances almost everything that moves passengers on the Northeast Corridor.
 
