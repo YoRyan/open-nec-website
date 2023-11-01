@@ -8,6 +8,8 @@ nav_order: 1
 
 Open NEC is a free and open-source Train Simulator Classic mod that greatly enhances the functionality of passenger locomotives released for the Northeast Corridor (Washington, D.C. to Boston) locale. It's a complete rescripting effort, using code written from scratch, to achieve an ultra-realistic driving experience.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pDs55Pt_P8w?si=0Y7wyGCMUhzUVAgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Drive easier with quality of life improvements.
 
 A scrolling menu for changing destination signs. A progress bar for switching dual-power locomotive modes. Automatic bell when blowing the horn. And, oh, did we mention fading ditch lights?
