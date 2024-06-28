@@ -54,6 +54,7 @@ Currently, the complete list of enhanced locomotives includes:
 - [NJ Transit Bombardier ALP-46](https://store.steampowered.com/app/258658/Train_Simulator_NJ_TRANSIT_ALP46_Loco_AddOn/)
 - [NJ Transit GE Arrow III](https://store.steampowered.com/app/500247/Train_Simulator_NJ_TRANSIT_Arrow_III_EMU_AddOn/)
 - [NJ Transit EMD GP40PH-2B](https://store.steampowered.com/app/325991/Train_Simulator_NJ_TRANSIT_GP40PH2B_Loco_AddOn/)
+- [NJ Transit EMD F40PH-2CAT](https://store.steampowered.com/app/325968/Train_Simulator_NJ_TRANSIT_F40PH_2CAT_Loco_AddOn/)
 - [NJ Transit Comet IV Cab Car](https://store.steampowered.com/app/500218/Train_Simulator_North_Jersey_Coast__Morristown_Lines_Route_AddOn/)
 - [NJ Transit Comet V Cab Car](https://store.steampowered.com/app/325970/Train_Simulator_North_Jersey_Coast_Line_Route_AddOn/)
 - [NJ Transit Bombardier Multilevel Cab Car](https://store.steampowered.com/app/325970/Train_Simulator_North_Jersey_Coast_Line_Route_AddOn/)
